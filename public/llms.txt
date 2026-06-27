@@ -1,0 +1,70 @@
+# ‏חנות טלפונים — Generative Engine Optimization Map
+
+> A phone store retail business specializing in mobile devices and related products. The specific focus, brand identity, and unique offerings are yet to be defined.
+
+---
+
+## Pages
+
+### בית
+https://-0db51c59.zappy5.app
+מחפש חנויות אלקטרוניקה לצרכן? בואו ליהנות ממגוון מכשירים סלולריים ומוצרים נלווים במחירים שווים. היכנסו עכשיו וגלו את ההבדל!
+
+### תודה על פנייתך
+https://-0db51c59.zappy5.app/thank-you
+‏חנות טלפונים - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-0db51c59.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-0db51c59.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-0db51c59.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-0db51c59.zappy5.app
+- Endpoint: https://-0db51c59.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ‏חנות טלפונים
+A phone store retail business specializing in mobile devices and related products. The specific focus, brand identity, and unique offerings are yet to be defined.
+
+## Target Audience
+- חובבי טכנולוגיה
+- מקצוענים צעירים
+- בעלי עסקים
+
+## Industry
+Electronics Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-0db51c59.zappy5.app/sitemap.xml
+- Robots: https://-0db51c59.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-0db51c59.zappy5.app/llms-full.txt
